@@ -1,7 +1,5 @@
 
 <h2 align="left">Hi 👋! My name is João Vcitor </h2>
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="center">
